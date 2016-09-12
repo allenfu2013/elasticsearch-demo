@@ -1,0 +1,106 @@
+{
+  "dfp_android": {
+    "properties": {
+      "id": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "deviceType": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "internalId": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "fingerPrintId": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "model": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "resolution": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "totalMemory": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "totalStorage": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuCount": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cellMac": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cellIp": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "appList": {
+        "type": "string",
+        "boost": "10"
+      },
+      "ismi": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "touchScreen": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "brand": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuHardware": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuSerial": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuSpeed": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "androidDeviceId": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuABI": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "location": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "simulator": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "carrier": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "networkType": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "country": {
+        "type": "string",
+        "index": "not_analyzed"
+      }
+    }
+  }
+}

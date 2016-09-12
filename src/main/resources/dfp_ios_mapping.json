@@ -1,0 +1,54 @@
+{
+  "dfp_ios": {
+    "properties": {
+      "id": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "breakFlag": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "idfa": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "idfv": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "model": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "resolution": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "totalMemory": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "totalStorage": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cpuCount": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cellMac": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "cellIp": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "appList": {
+        "type": "string",
+        "boost": "10"
+      }
+    }
+  }
+}
